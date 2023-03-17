@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc575072-94ee-4789-9fbe-23d9ad8e735f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sonyabeldy/springcourse/TestBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sonyabeldy/springcourse/TestSpring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sonyabeldy/springcourse/ClassicalMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sonyabeldy/springcourse/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sonyabeldy/springcourse/MusicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sonyabeldy/springcourse/RockMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sonyabeldy/springcourse/TestBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sonyabeldy/springcourse/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sonyabeldy/springcourse/TestSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="XML Properties File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,7 +51,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Qusty/IdeaProjects/springapp1"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Qusty/IdeaProjects/spring-test"
   }
 }]]></component>
   <component name="RunManager">
