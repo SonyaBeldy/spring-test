@@ -34,6 +34,6 @@ public class ClassicalMusic implements Music {
 
     public String getSong() {
         Random random = new Random();
-        return songs.get(random.nextInt(0, songs.size()));
+        return songs.get(random.nextInt(songs.size()));
     }
 }
