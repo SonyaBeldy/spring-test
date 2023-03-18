@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc575072-94ee-4789-9fbe-23d9ad8e735f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sonyabeldy/springcourse/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sonyabeldy/springcourse/MusicGenre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/sonyabeldy/springcourse/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sonyabeldy/springcourse/ClassicalMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sonyabeldy/springcourse/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sonyabeldy/springcourse/Computer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/sonyabeldy/springcourse/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sonyabeldy/springcourse/MusicPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sonyabeldy/springcourse/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sonyabeldy/springcourse/TestSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sonyabeldy/springcourse/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sonyabeldy/springcourse/RockMusic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,7 @@
         <option value="XML Properties File" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
