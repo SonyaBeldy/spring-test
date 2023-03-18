@@ -15,7 +15,7 @@ public class MusicPlayer {
     private String name;
     @Value("${musicPlayer.volume}")
     private int volume;
-    private List<Music> musicList;
+    private final List<Music> musicList;
 
     @Autowired
     public MusicPlayer(List<Music> musicList) {
@@ -26,7 +26,6 @@ public class MusicPlayer {
         Random random = new Random();
         int musicGenreInd = random.nextInt(musicList.size());
         return String.format("Playing: (%s) %s", musicList.get(musicGenreInd).getClass().getSimpleName(), musicList.get(musicGenreInd).getSong());
-//        return "Playing: (" + musicList.get(musicGenreInd).getClass().getSimpleName() + ") " + musicList.get(musicGenreInd).getSong();
     }
 
     public String getName() {
